@@ -1,0 +1,26 @@
+{
+  "name": "lift",
+  "version": "0.0.1",
+  "description": "Design System base for all Get Lost products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tokens:generate-css": "node scripts/json-to-css-tokens.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Get-Lost-games/Lift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Get-Lost-games/Lift/issues"
+  },
+  "homepage": "https://github.com/Get-Lost-games/Lift#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

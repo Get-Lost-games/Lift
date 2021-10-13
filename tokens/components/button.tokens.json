@@ -1,0 +1,22 @@
+{
+  "button": {
+    "background": {
+      "value": "{brand.primary}"
+    },
+    "text": {
+      "value": "{brand.text-on-primary}"
+    },
+    "background-hover": {
+      "value": "{brand.primary-hover}"
+    },
+    "text-hover": {
+      "value": "{brand.text-on-primary-hover}"
+    },
+    "padding-block": {
+      "value": "1.25ch"
+    },
+    "padding-inline": {
+      "value": "2.5ch"
+    }
+  }
+}
