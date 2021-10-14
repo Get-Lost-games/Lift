@@ -1,0 +1,14 @@
+{
+  "primary": {
+    "value": "{base.teal.300}"
+  },
+  "text-on-primary": {
+    "value": "{base.gray.900}"
+  },
+  "primary-hover": {
+    "value": "{base.teal.400}"
+  },
+  "text-on-primary-hover": {
+    "value": "{base.black}"
+  }
+}
