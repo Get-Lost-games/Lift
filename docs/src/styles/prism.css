@@ -1,0 +1,28 @@
+.prism {
+  padding: var(--size-30);
+  border-radius: var(--size-10);
+  background: var(--cool-gray-900);
+  color: var(--cool-gray-400);
+  font-family: monospace;
+  width: 100%;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  white-space: normal !important;
+  word-break: break-word !important;
+}
+
+.prims .punctuation,
+.prism .attr-value {
+  color: #e6db74;
+}
+
+.prism .tag,
+.prism .attr-equals {
+  color: #f92672;
+}
+
+.prism .attr-name {
+  color: #a6e22e;
+}
